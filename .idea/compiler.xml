@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ws0418_xml" />
+        <module name="0418_ANN" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ws0418_ANN" target="11" />
+      <module name="ws0418_ANN2" target="11" />
+      <module name="ws0418_XML" target="11" />
+      <module name="WSWS" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
